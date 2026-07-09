@@ -2,7 +2,7 @@
 
 Learner, Developer, and Researcher. I build multimodal foundation models and enjoy turning research ideas into things that actually run.
 
-🔭 I'm an **AI Scientist at [LG AI Research](https://www.lgresearch.ai/) (EXAONE Lab)**, working on **EXAONE 5.0** (a MoE multimodal LLM with image & video understanding) and the next-generation sovereign model **K-EXAONE 3**.
+🔭 I'm an **AI Scientist at [LG AI Research](https://www.lgresearch.ai/) (EXAONE Lab)**, working on **EXAONE 5.0** (a MoE multimodal LLM with image & video understanding) and the next-generation sovereign model **K-EXAONE 3**, focusing on **Video & Document Understanding**. Previously contributed to [EXAONE 4.5](https://arxiv.org/abs/2604.08644), [K-EXAONE](https://arxiv.org/abs/2601.01739), and K-EXAONE 2.
 
 🎓 I earned my **Ph.D. in Computer Science from Yonsei University**, advised by Prof. Seon Joo Kim, on efficient generative vision. Previously interned at **Adobe Research** and **NAVER**.
 
